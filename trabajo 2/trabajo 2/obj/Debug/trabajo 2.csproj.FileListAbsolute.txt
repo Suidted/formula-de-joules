@@ -1,0 +1,31 @@
+C:\Users\Asdaasaa\source\repos\trabajo 2\trabajo 2\bin\Debug\trabajo 2.exe.config
+C:\Users\Asdaasaa\source\repos\trabajo 2\trabajo 2\bin\Debug\trabajo 2.exe
+C:\Users\Asdaasaa\source\repos\trabajo 2\trabajo 2\bin\Debug\trabajo 2.pdb
+C:\Users\Asdaasaa\source\repos\trabajo 2\trabajo 2\obj\Debug\trabajo 2.csproj.AssemblyReference.cache
+C:\Users\Asdaasaa\source\repos\trabajo 2\trabajo 2\obj\Debug\trabajo_2.Form1.resources
+C:\Users\Asdaasaa\source\repos\trabajo 2\trabajo 2\obj\Debug\trabajo_2.Properties.Resources.resources
+C:\Users\Asdaasaa\source\repos\trabajo 2\trabajo 2\obj\Debug\trabajo 2.csproj.GenerateResource.cache
+C:\Users\Asdaasaa\source\repos\trabajo 2\trabajo 2\obj\Debug\trabajo 2.csproj.CoreCompileInputs.cache
+C:\Users\Asdaasaa\source\repos\trabajo 2\trabajo 2\obj\Debug\trabajo 2.exe
+C:\Users\Asdaasaa\source\repos\trabajo 2\trabajo 2\obj\Debug\trabajo 2.pdb
+C:\Users\Asdaasaa\Desktop\CLAUDIA\trabajo 2\trabajo 2\bin\Debug\trabajo 2.exe.config
+C:\Users\Asdaasaa\Desktop\CLAUDIA\trabajo 2\trabajo 2\bin\Debug\trabajo 2.exe
+C:\Users\Asdaasaa\Desktop\CLAUDIA\trabajo 2\trabajo 2\bin\Debug\trabajo 2.pdb
+C:\Users\Asdaasaa\Desktop\CLAUDIA\trabajo 2\trabajo 2\obj\Debug\trabajo 2.csproj.AssemblyReference.cache
+C:\Users\Asdaasaa\Desktop\CLAUDIA\trabajo 2\trabajo 2\obj\Debug\trabajo_2.Form1.resources
+C:\Users\Asdaasaa\Desktop\CLAUDIA\trabajo 2\trabajo 2\obj\Debug\trabajo_2.Properties.Resources.resources
+C:\Users\Asdaasaa\Desktop\CLAUDIA\trabajo 2\trabajo 2\obj\Debug\trabajo 2.csproj.GenerateResource.cache
+C:\Users\Asdaasaa\Desktop\CLAUDIA\trabajo 2\trabajo 2\obj\Debug\trabajo 2.csproj.CoreCompileInputs.cache
+C:\Users\Asdaasaa\Desktop\CLAUDIA\trabajo 2\trabajo 2\obj\Debug\trabajo 2.exe
+C:\Users\Asdaasaa\Desktop\CLAUDIA\trabajo 2\trabajo 2\obj\Debug\trabajo 2.pdb
+C:\Users\alfredo corazon\OneDrive\Escritorio\trabajo 2\trabajo 2\bin\Debug\trabajo 2.exe.config
+C:\Users\alfredo corazon\OneDrive\Escritorio\trabajo 2\trabajo 2\bin\Debug\trabajo 2.exe
+C:\Users\alfredo corazon\OneDrive\Escritorio\trabajo 2\trabajo 2\bin\Debug\trabajo 2.pdb
+C:\Users\alfredo corazon\OneDrive\Escritorio\trabajo 2\trabajo 2\obj\Debug\trabajo 2.csproj.AssemblyReference.cache
+C:\Users\alfredo corazon\OneDrive\Escritorio\trabajo 2\trabajo 2\obj\Debug\trabajo 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alfredo corazon\OneDrive\Escritorio\trabajo 2\trabajo 2\obj\Debug\trabajo_2.Form1.resources
+C:\Users\alfredo corazon\OneDrive\Escritorio\trabajo 2\trabajo 2\obj\Debug\trabajo_2.Properties.Resources.resources
+C:\Users\alfredo corazon\OneDrive\Escritorio\trabajo 2\trabajo 2\obj\Debug\trabajo 2.csproj.GenerateResource.cache
+C:\Users\alfredo corazon\OneDrive\Escritorio\trabajo 2\trabajo 2\obj\Debug\trabajo 2.csproj.CoreCompileInputs.cache
+C:\Users\alfredo corazon\OneDrive\Escritorio\trabajo 2\trabajo 2\obj\Debug\trabajo 2.exe
+C:\Users\alfredo corazon\OneDrive\Escritorio\trabajo 2\trabajo 2\obj\Debug\trabajo 2.pdb
